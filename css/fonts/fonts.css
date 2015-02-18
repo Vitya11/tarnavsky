@@ -1,0 +1,26 @@
+
+
+@font-face {
+font-family: 'PFDinDisplayPro-Black';
+font-style: normal;
+font-weight: normal;
+src: local('PFDinDisplayPro-Black'), url('PFDinDisplayPro-Black.woff') format('woff');
+}
+
+@font-face{
+    font-family: 'wf_SegoeUINormal';
+    src:url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Normal/latest.eot');
+    src:url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Normal/latest.eot?#iefix') format('embedded-opentype'),
+           url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Normal/latest.woff') format('woff'),
+           url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Normal/latest.ttf') format('truetype'),
+           url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Normal/latest.svg#web') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+font-family: 'PFDinTextCompPro';
+font-style: normal;
+font-weight: normal;
+src: local('PFDinTextCompPro'), url('PFDinTextCompPro.woff') format('woff');
+}
